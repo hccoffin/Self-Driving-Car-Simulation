@@ -1,0 +1,3 @@
+This project is a simulation of a self driving car using machine learnign techniques and tkinter. To run the simulation it run the "run" file using a version of python 3 with numpy. When the car is driving itself along a randomly generated path, it is controlled by a neural network. This neural network is trained using either backpropagation ("Train it Yourself") or a genetic algorithm ("Learn Automatically"). 
+
+To use this program, you must have numpy for python 3. The easiest way to install it is as a bundle using Anaconda 3, which can be found at this url: https://www.continuum.io/downloads. Anaconda comes with its own version of python 3 which has the required modules installed.
